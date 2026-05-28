@@ -5,7 +5,7 @@ Full Stack Developer | MERN Stack Enthusiast | Problem Solver
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Real-World+Projects;Open+Source+Learner;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&height=50&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Real-World+Projects;Open+Source+Learner" />
 </p>
 
 ---
@@ -43,6 +43,10 @@ Full Stack Developer | MERN Stack Enthusiast | Problem Solver
 
 `React.js` `Node.js` `Express.js` `MongoDB` `WebSockets`
 
+### 🔗 Repository
+
+👉 https://github.com/kundankumar09-v/wahap
+
 ---
 
 ## 📧 Temporary Mail Service
@@ -54,7 +58,11 @@ Full Stack Developer | MERN Stack Enthusiast | Problem Solver
 
 ### ⚙️ Tech Used
 
-`React.js` `Node.js` `MongoDB` `JWT`
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT`
+
+### 🔗 Repository
+
+👉 https://github.com/kundankumar09-v/temp-mail-mern
 
 ---
 
@@ -68,6 +76,10 @@ Full Stack Developer | MERN Stack Enthusiast | Problem Solver
 ### ⚙️ Tech Used
 
 `Flask` `SQL` `Python`
+
+### 🔗 Repository
+
+👉 https://github.com/kundankumar09-v/movie_review_and_rating_system
 
 ---
 

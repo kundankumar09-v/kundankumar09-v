@@ -1,128 +1,215 @@
-```markdown
-<h1 align="center">Hi 👋, I'm Kundan Kumar Vennaboina</h1>
-<h3 align="center">Full Stack Developer | MERN Stack Enthusiast | Problem Solver</h3>
+## COPY THIS ENTIRE PROMPT (Part 1 of 2) >>>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Developer;DSA+Enthusiast;Open+Source+Learner;Building+Real-World+Projects" />
-</p>
+I want you to transform my GitHub profile README.
 
----
+Do NOT ask me any questions. Just execute everything automatically.
 
-## 🚀 About Me
+IMPORTANT:
+This GitHub profile should be strongly PROJECT-FOCUSED and designed to showcase my development work, technical skills, and real-world applications for recruiters and internships.
 
-- 🎓 B.Tech CSE Student at **CVR College of Engineering** (2023–2027)
-- 💻 Passionate about **Full Stack Development & Problem Solving**
-- 🌱 Currently learning **Advanced MERN Stack & System Design**
-- ⚡ Solved multiple DSA problems across coding platforms
-- 🔥 Love building scalable and real-world applications
+MY DETAILS:
 
----
+* Name: Kundan Kumar Vennaboina
+* Role: Full Stack Developer | MERN Stack Enthusiast | Problem Solver
+* Experience: B.Tech CSE Student (2023–2027)
+* College: CVR College of Engineering
+* GitHub Username: kundankumar09-v
 
-## 🌐 Connect With Me
+TECH STACK:
 
-<p align="left">
-<a href="https://github.com/kundankumar09-v" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* Flask
+* JavaScript
+* Python
+* Java
+* C
+* C++
+* SQL
+* Git
+* GitHub
+* Postman
+* VS Code
 
-<a href="https://linkedin.com/in/ kundan-kumar-vennaboina" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-</p>
+CORE SKILLS:
 
----
+* Data Structures & Algorithms
+* REST API Development
+* Authentication & Authorization
+* API Integration
+* Object Oriented Programming
+* DBMS
+* Machine Learning Basics
+* Statistics
 
-## 💻 Tech Stack
+FEATURED PROJECTS:
 
-<p align="left">
+1. WAHAP – Real-Time Event Navigation and Interactive Feedback System
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,flask,java,python,c,cpp,mysql,git,github,postman,vscode" />
+   * MERN-based event navigation platform
+   * Interactive 2D venue map
+   * QR-based event access
+   * Real-time feedback using WebSockets
 
-</p>
+2. Temporary Mail MERN Stack Project
 
----
+   * Disposable email platform
+   * JWT authentication
+   * API integration
+   * Responsive React frontend
 
-## 🧠 Core Skills
+3. Movie Review and Rating System
 
-- Data Structures & Algorithms
-- Object Oriented Programming
-- REST API Development
-- Authentication & Authorization
-- API Integration
-- DBMS
-- Machine Learning Basics
-- Statistics
+   * Flask + SQL project
+   * CRUD operations
+   * Authentication and session management
+   * Movie recommendation feature
 
----
+LINKS:
 
-## 📊 GitHub Stats
+* GitHub: https://github.com/kundankumar09-v
+* LinkedIn: ADD_YOUR_LINKEDIN_LINK
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kundankumar09-v&show_icons=true&theme=tokyonight" />
-</p>
+INSTRUCTIONS — DO ALL OF THIS AUTOMATICALLY:
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kundankumar09-v&theme=tokyonight" />
-</p>
+1. Go to my GitHub profile repository:
+   github.com/kundankumar09-v/kundankumar09-v
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundankumar09-v&layout=compact&theme=tokyonight" />
-</p>
+2. Open the README.md file
 
----
+3. Click Edit (pencil icon)
 
-## 🏆 GitHub Trophies
+4. Delete ALL existing content
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kundankumar09-v&theme=tokyonight&row=1&column=6" />
-</p>
+5. Create and paste a complete professional README with these sections:
 
----
+SECTION A: ANIMATED HEADER
 
-## 🔥 Featured Projects
+* Add a modern wave GIF greeting
+* Add animated typing effect using readme-typing-svg
+* Show my role and project-building focus
+* Use premium dark theme styling
 
-### 🎯 WAHAP – Real-Time Event Navigation System
-- MERN-based event navigation & attendee engagement platform
-- Interactive 2D venue map with QR-based event access
-- Real-time feedback updates using WebSockets
-- Leaflet.js + MongoDB integration
+SECTION B: ABOUT ME
 
-### 📧 Temporary Mail Service
-- MERN-based disposable email platform
-- JWT Authentication & bcrypt security
-- Responsive React frontend with API integration
-- Automated inbox polling mechanism
+* Write a confident developer introduction
+* Mention Full Stack Development and building scalable applications
+* Mention problem solving and real-world development
+* Add attractive emojis
+* Add 4-5 engaging bullet points
 
-### 🎬 Movie Review & Rating System
-- Flask + SQL based movie review platform
-- CRUD operations & session management
-- Recommendation feature using content similarity
-- Jinja2 templating with server-side rendering
+SECTION C: TECH STACK
 
----
+* Add colorful badges using skillicons.dev and shields.io
+* Organize technologies professionally
+* Separate frontend, backend, databases, tools, languages
 
-## 🏅 Certifications
+SECTION D: PROJECTS SHOWCASE (MOST IMPORTANT SECTION)
 
-- Zscaler Academy – Introduction to Networking for Cyber Professionals
-- Smart Interviews – DSA Certification
-- Juniper Networks – Networking Virtual Internship
+* Make this the highlight of the profile
+* Add visually attractive project showcase sections/cards
+* Give detailed professional descriptions
+* Mention technologies used in each project
+* Highlight:
+  • WAHAP
+  • Temporary Mail Service
+  • Movie Review System
+* Focus on scalability, APIs, authentication, real-time features, and practical implementation
+* Make recruiters immediately notice the projects
 
----
+SECTION E: CORE SKILLS
 
-## 💻 Coding Profiles
+* Add skills section using markdown
+* Highlight MERN stack expertise
+* Highlight REST APIs and backend development
 
-- 🟨 LeetCode: Rating **1657**
-- ⭐ CodeChef: Rating **1380**
+SECTION F: GITHUB STATS
 
----
+* Add GitHub stats card
+* Add GitHub streak stats
+* Add Top Languages card
+* Theme: tokyonight
 
-## 👀 Profile Views
+SECTION G: GITHUB TROPHIES
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=kundankumar09-v&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+* Add GitHub Profile Trophy section
+* Theme: tokyonight or darkhub
 
----
+SECTION H: VISITOR COUNTER
 
-<h3 align="center">✨ Keep Learning, Keep Building, Keep Growing ✨</h3>
-```
+* Add profile views counter badge
+
+SECTION I: FOOTER
+
+* Add professional closing line
+* Add "Keep Learning, Keep Building"
+
+6. Use my ACTUAL GitHub username in ALL URLs and stats cards
+
+7. Make the profile:
+
+* Modern
+* Premium
+* Project-centric
+* Professional
+* Recruiter-friendly
+* Dark themed
+* Visually attractive
+
+8. Ensure ALL badges, cards, and links work correctly
+
+9. Automatically save everything by clicking Commit changes
+
+RULES:
+
+* Do NOT ask me any questions
+* Do NOT stop in the middle
+* Complete everything automatically
+* Prioritize PROJECT SHOWCASE over everything else
+* Make the README look premium and developer-focused
+
+## PROMPT CONTINUED (Part 2 of 2) >>>
+
+ADDITIONAL REQUIREMENTS:
+
+* Use centered layouts where appropriate
+* Use proper markdown spacing
+* Use attractive headings and emojis
+* Keep the design balanced and readable
+* Ensure mobile-friendly GitHub rendering
+* Avoid broken images or unsupported widgets
+
+ADD THESE EXACT SECTIONS:
+
+* About Me
+* Tech Stack
+* Projects Showcase
+* Core Skills
+* GitHub Stats
+* GitHub Trophies
+* Visitor Counter
+* Connect With Me
+
+CONNECT WITH ME SECTION:
+
+* Add clickable GitHub icon
+* Add clickable LinkedIn icon
+* Use stylish icons and badges
+
+IMPORTANT:
+
+* Replace all placeholders automatically
+* Use my real username: kundankumar09-v
+* Ensure GitHub stats cards load correctly
+* Use only working badge/image providers
+* Keep everything optimized for recruiters and internships
+* Make projects visually stand out the most
+
+AFTER COMPLETING:
+
+* Commit all changes automatically
+* Save the README successfully
+
+## <<< END OF PROMPT

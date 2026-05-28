@@ -1,4 +1,3 @@
-```html id="3p8k2q"
 <h1 align="center">Hi 👋, I'm Kundan Kumar Vennaboina</h1>
 
 <h3 align="center">
@@ -6,18 +5,18 @@ Full Stack Developer | MERN Stack Enthusiast | Problem Solver
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Real-World+Projects;Open+Source+Learner;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Real-World+Projects;Open+Source+Learner;Always+Learning+New+Things" />
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 🎓 B.Tech CSE Student at **CVR College of Engineering**
-- 💻 Passionate about Full Stack Development
-- 🌱 Currently learning Advanced MERN Stack & System Design
-- ⚡ Love building scalable real-world applications
-- 🔥 Strong interest in APIs, backend systems, and problem solving
+* 🎓 B.Tech CSE Student at **CVR College of Engineering**
+* 💻 Passionate about Full Stack Development
+* 🌱 Currently learning Advanced MERN Stack & System Design
+* ⚡ Love building scalable real-world applications
+* 🔥 Strong interest in APIs, backend systems, and problem solving
 
 ---
 
@@ -35,48 +34,51 @@ Full Stack Developer | MERN Stack Enthusiast | Problem Solver
 
 ## 🎯 WAHAP – Real-Time Event Navigation System
 
-- MERN-based event navigation platform
-- Interactive 2D venue map
-- QR-based event access
-- Real-time feedback using WebSockets
+🔹 MERN-based event navigation platform
+🔹 Interactive 2D venue map
+🔹 QR-based event access
+🔹 Real-time feedback using WebSockets
 
 ### ⚙️ Tech Used
+
 `React.js` `Node.js` `Express.js` `MongoDB` `WebSockets`
 
 ---
 
 ## 📧 Temporary Mail Service
 
-- Disposable email platform using MERN
-- JWT Authentication
-- API integration
-- Responsive React frontend
+🔹 Disposable email platform using MERN
+🔹 JWT Authentication
+🔹 API integration
+🔹 Responsive React frontend
 
 ### ⚙️ Tech Used
+
 `React.js` `Node.js` `MongoDB` `JWT`
 
 ---
 
 ## 🎬 Movie Review & Rating System
 
-- Flask + SQL application
-- CRUD operations
-- Authentication & session management
-- Recommendation feature
+🔹 Flask + SQL application
+🔹 CRUD operations
+🔹 Authentication & session management
+🔹 Recommendation feature
 
 ### ⚙️ Tech Used
+
 `Flask` `SQL` `Python`
 
 ---
 
 # 🧠 Core Skills
 
-- Data Structures & Algorithms
-- REST API Development
-- Authentication & Authorization
-- API Integration
-- Object Oriented Programming
-- DBMS
+* Data Structures & Algorithms
+* REST API Development
+* Authentication & Authorization
+* API Integration
+* Object Oriented Programming
+* DBMS
 
 ---
 
@@ -84,11 +86,11 @@ Full Stack Developer | MERN Stack Enthusiast | Problem Solver
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kundankumar09-v&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=kundankumar09-v&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kundankumar09-v&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kundankumar09-v&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundankumar09-v&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundankumar09-v&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -108,11 +110,11 @@ Full Stack Developer | MERN Stack Enthusiast | Problem Solver
 
 <p align="center">
 
-<a href="https://github.com/kundankumar09-v">
+<a href="https://github.com/kundankumar09-v" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 
-<a href="https://linkedin.com/in/kundan-kumar-vennaboina">
+<a href="https://www.linkedin.com/in/kundan-kumar-vennaboina/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
@@ -133,4 +135,3 @@ Full Stack Developer | MERN Stack Enthusiast | Problem Solver
 <h3 align="center">
 ✨ Keep Learning • Keep Building • Keep Growing ✨
 </h3>
-```

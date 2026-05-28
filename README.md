@@ -1,215 +1,136 @@
-## COPY THIS ENTIRE PROMPT (Part 1 of 2) >>>
+```html id="3p8k2q"
+<h1 align="center">Hi 👋, I'm Kundan Kumar Vennaboina</h1>
 
-I want you to transform my GitHub profile README.
+<h3 align="center">
+Full Stack Developer | MERN Stack Enthusiast | Problem Solver
+</h3>
 
-Do NOT ask me any questions. Just execute everything automatically.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Real-World+Projects;Open+Source+Learner;Always+Learning+New+Things" />
+</p>
 
-IMPORTANT:
-This GitHub profile should be strongly PROJECT-FOCUSED and designed to showcase my development work, technical skills, and real-world applications for recruiters and internships.
+---
 
-MY DETAILS:
+# 🚀 About Me
 
-* Name: Kundan Kumar Vennaboina
-* Role: Full Stack Developer | MERN Stack Enthusiast | Problem Solver
-* Experience: B.Tech CSE Student (2023–2027)
-* College: CVR College of Engineering
-* GitHub Username: kundankumar09-v
+- 🎓 B.Tech CSE Student at **CVR College of Engineering**
+- 💻 Passionate about Full Stack Development
+- 🌱 Currently learning Advanced MERN Stack & System Design
+- ⚡ Love building scalable real-world applications
+- 🔥 Strong interest in APIs, backend systems, and problem solving
 
-TECH STACK:
+---
 
-* React.js
-* Node.js
-* Express.js
-* MongoDB
-* Flask
-* JavaScript
-* Python
-* Java
-* C
-* C++
-* SQL
-* Git
-* GitHub
-* Postman
-* VS Code
+# 💻 Tech Stack
 
-CORE SKILLS:
+<p align="center">
 
-* Data Structures & Algorithms
-* REST API Development
-* Authentication & Authorization
-* API Integration
-* Object Oriented Programming
-* DBMS
-* Machine Learning Basics
-* Statistics
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,flask,js,python,java,c,cpp,mysql,git,github,postman,vscode" />
 
-FEATURED PROJECTS:
+</p>
 
-1. WAHAP – Real-Time Event Navigation and Interactive Feedback System
+---
 
-   * MERN-based event navigation platform
-   * Interactive 2D venue map
-   * QR-based event access
-   * Real-time feedback using WebSockets
+# 🔥 Projects Showcase
 
-2. Temporary Mail MERN Stack Project
+## 🎯 WAHAP – Real-Time Event Navigation System
 
-   * Disposable email platform
-   * JWT authentication
-   * API integration
-   * Responsive React frontend
+- MERN-based event navigation platform
+- Interactive 2D venue map
+- QR-based event access
+- Real-time feedback using WebSockets
 
-3. Movie Review and Rating System
+### ⚙️ Tech Used
+`React.js` `Node.js` `Express.js` `MongoDB` `WebSockets`
 
-   * Flask + SQL project
-   * CRUD operations
-   * Authentication and session management
-   * Movie recommendation feature
+---
 
-LINKS:
+## 📧 Temporary Mail Service
 
-* GitHub: https://github.com/kundankumar09-v
-* LinkedIn: ADD_YOUR_LINKEDIN_LINK
+- Disposable email platform using MERN
+- JWT Authentication
+- API integration
+- Responsive React frontend
 
-INSTRUCTIONS — DO ALL OF THIS AUTOMATICALLY:
+### ⚙️ Tech Used
+`React.js` `Node.js` `MongoDB` `JWT`
 
-1. Go to my GitHub profile repository:
-   github.com/kundankumar09-v/kundankumar09-v
+---
 
-2. Open the README.md file
+## 🎬 Movie Review & Rating System
 
-3. Click Edit (pencil icon)
+- Flask + SQL application
+- CRUD operations
+- Authentication & session management
+- Recommendation feature
 
-4. Delete ALL existing content
+### ⚙️ Tech Used
+`Flask` `SQL` `Python`
 
-5. Create and paste a complete professional README with these sections:
+---
 
-SECTION A: ANIMATED HEADER
+# 🧠 Core Skills
 
-* Add a modern wave GIF greeting
-* Add animated typing effect using readme-typing-svg
-* Show my role and project-building focus
-* Use premium dark theme styling
+- Data Structures & Algorithms
+- REST API Development
+- Authentication & Authorization
+- API Integration
+- Object Oriented Programming
+- DBMS
 
-SECTION B: ABOUT ME
+---
 
-* Write a confident developer introduction
-* Mention Full Stack Development and building scalable applications
-* Mention problem solving and real-world development
-* Add attractive emojis
-* Add 4-5 engaging bullet points
+# 📊 GitHub Stats
 
-SECTION C: TECH STACK
+<p align="center">
 
-* Add colorful badges using skillicons.dev and shields.io
-* Organize technologies professionally
-* Separate frontend, backend, databases, tools, languages
+<img src="https://github-readme-stats.vercel.app/api?username=kundankumar09-v&show_icons=true&theme=tokyonight" />
 
-SECTION D: PROJECTS SHOWCASE (MOST IMPORTANT SECTION)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kundankumar09-v&theme=tokyonight" />
 
-* Make this the highlight of the profile
-* Add visually attractive project showcase sections/cards
-* Give detailed professional descriptions
-* Mention technologies used in each project
-* Highlight:
-  • WAHAP
-  • Temporary Mail Service
-  • Movie Review System
-* Focus on scalability, APIs, authentication, real-time features, and practical implementation
-* Make recruiters immediately notice the projects
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundankumar09-v&layout=compact&theme=tokyonight" />
 
-SECTION E: CORE SKILLS
+</p>
 
-* Add skills section using markdown
-* Highlight MERN stack expertise
-* Highlight REST APIs and backend development
+---
 
-SECTION F: GITHUB STATS
+# 🏆 GitHub Trophies
 
-* Add GitHub stats card
-* Add GitHub streak stats
-* Add Top Languages card
-* Theme: tokyonight
+<p align="center">
 
-SECTION G: GITHUB TROPHIES
+<img src="https://github-profile-trophy.vercel.app/?username=kundankumar09-v&theme=tokyonight&row=1&column=6" />
 
-* Add GitHub Profile Trophy section
-* Theme: tokyonight or darkhub
+</p>
 
-SECTION H: VISITOR COUNTER
+---
 
-* Add profile views counter badge
+# 🌐 Connect With Me
 
-SECTION I: FOOTER
+<p align="center">
 
-* Add professional closing line
-* Add "Keep Learning, Keep Building"
+<a href="https://github.com/kundankumar09-v">
+<img src="https://skillicons.dev/icons?i=github" height="50" />
+</a>
 
-6. Use my ACTUAL GitHub username in ALL URLs and stats cards
+<a href="https://linkedin.com/in/kundan-kumar-vennaboina">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
 
-7. Make the profile:
+</p>
 
-* Modern
-* Premium
-* Project-centric
-* Professional
-* Recruiter-friendly
-* Dark themed
-* Visually attractive
+---
 
-8. Ensure ALL badges, cards, and links work correctly
+# 👀 Profile Views
 
-9. Automatically save everything by clicking Commit changes
+<p align="center">
 
-RULES:
+<img src="https://komarev.com/ghpvc/?username=kundankumar09-v&label=Profile%20views&color=0e75b6&style=flat" />
 
-* Do NOT ask me any questions
-* Do NOT stop in the middle
-* Complete everything automatically
-* Prioritize PROJECT SHOWCASE over everything else
-* Make the README look premium and developer-focused
+</p>
 
-## PROMPT CONTINUED (Part 2 of 2) >>>
+---
 
-ADDITIONAL REQUIREMENTS:
-
-* Use centered layouts where appropriate
-* Use proper markdown spacing
-* Use attractive headings and emojis
-* Keep the design balanced and readable
-* Ensure mobile-friendly GitHub rendering
-* Avoid broken images or unsupported widgets
-
-ADD THESE EXACT SECTIONS:
-
-* About Me
-* Tech Stack
-* Projects Showcase
-* Core Skills
-* GitHub Stats
-* GitHub Trophies
-* Visitor Counter
-* Connect With Me
-
-CONNECT WITH ME SECTION:
-
-* Add clickable GitHub icon
-* Add clickable LinkedIn icon
-* Use stylish icons and badges
-
-IMPORTANT:
-
-* Replace all placeholders automatically
-* Use my real username: kundankumar09-v
-* Ensure GitHub stats cards load correctly
-* Use only working badge/image providers
-* Keep everything optimized for recruiters and internships
-* Make projects visually stand out the most
-
-AFTER COMPLETING:
-
-* Commit all changes automatically
-* Save the README successfully
-
-## <<< END OF PROMPT
+<h3 align="center">
+✨ Keep Learning • Keep Building • Keep Growing ✨
+</h3>
+```
